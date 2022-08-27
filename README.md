@@ -31,6 +31,7 @@ A bunch of features are to be added to the application. Some of these are :-
 After downloading the repository in the user's machine, the Application can be run be creating an object of the `Notepad` class. A constructor for this task is already created. Depending on the user's platform for running the Application, it can be run by directly creating an object **(as in BlueJ)** or by running these commands in the GoatPad directory of the Windows Powershell.
 
 > javac Notepad.java
+
 > java Notepad
 
 ***Note :***  For running the application, JDK is required
